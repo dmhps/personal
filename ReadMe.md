@@ -37,3 +37,8 @@ CIDMA - Center for Research and Development in Mathematics and Applications - Un
 <b>A fuzzy neural network for E. coli metabolism</b> <br> D. Figueiredo, C. Fuentes, M. A., Martins. AIP Conference Proceedings 1648, pp. 710004, 2015. <br> <br>
 </details>
 <br/>
+<details>
+  <summary><b>Thesis</b></summary>
+  <b>Logical foundations and Computational tools for synthetic biology.</b> <br> PhD thesis. Universities of Minho, Aveiro and Porto joint doctoral program in Applied Mathematics, 2020. <br> 
+<b>Differential dynamic logic and applications.</b> <br> MSc thesis. University of Aveiro, Master in Mathematics and Applications, 2015. <br> 
+</details>
