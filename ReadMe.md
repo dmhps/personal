@@ -15,7 +15,7 @@ CIDMA - Center for Research and Development in Mathematics and Applications - Un
 </div>
 
 **Publications** <br>
-A. Iglesias, D. Figueiredo, A. Madeira. An exercise in Uppaal: Modelling the circadian clock of a cyanobacteria. (accepted) <br>
+*An exercise in Uppaal: Modelling the circadian clock of a cyanobacteria*. A. Iglesias, D. Figueiredo, A. Madeira. (accepted) <br>
 A. Donato, D. Figueiredo, F. Batel-Marques. The impact of a reimbursement rate reduction on the utilization of antiulcer, antidepressants and antidiabetics in Portugal: a time series analysis. International Journal of Healthcare Management,  17(2) pp. 416-426, 2024. <br>
 D. Mendes, D. Figueiredo, C. Alves, A. Penedones, B. Costa, F. Batel-Marques. Impact of the COVID-19 pandemic on cancer screenings in Portugal. Cancer Epidemiology, 88, pp. 102496, 2024. <br>
 J. Santos, D. Figueiredo, A. Madeira. idDL2DL – Interval Syntax to dL. Lecture Notes in Computer Science 13931, pp. 240-247, 2023. <br>
