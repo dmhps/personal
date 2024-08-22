@@ -40,5 +40,21 @@ CIDMA - Center for Research and Development in Mathematics and Applications - Un
 <details>
   <summary><b>Thesis</b></summary>
   <b>Logical foundations and Computational tools for synthetic biology.</b> <br> PhD thesis. Universities of Minho, Aveiro and Porto joint doctoral program in Applied Mathematics, 2020. <br> 
+   <br> 
 <b>Differential dynamic logic and applications.</b> <br> MSc thesis. University of Aveiro, Master in Mathematics and Applications, 2015. <br> 
+</details>
+ <br> 
+<details>
+  <summary><b>Scientifical Projects</b></summary>
+  <b>2018-2022 FCT project POCI-01-0145-FEDER-032412 (FILTER)</b> Plataforma para o desenvolvimento e validação de sistemas automáticos de análise de imagem para o diagnóstico precoce e tratamento de doenças oculares relacionadas com a idade que podem levar à perda de visão. <br>
+https://www.aibili.pt/proj-public/1300/ <br> 
+  <br>
+<b>2018-2021 FCT project POCI-01-0145-FEDER-030947 (KLEE).</b> Coalgebraic Modeling and Analysis for Computational Synthetic Biology.  <br> 
+https://klee.di.uminho.pt/ <br> 
+   <br> 
+<b>2018-2019 Project PESSOA France-Portugal</b> Logical tools for systems biology. <br> 
+Total budget: 4.000€ <br> 
+   <br> 
+<b> 2013-2016 FCT project FCOMP-01-0124-FEDER-028923 (NASONI) </b> Heterogeneous software coordination: Foundations, methods, tools. <br> 
+https://webarchive.di.uminho.pt/wiki.di.uminho.pt/twiki/bin/view/Research/NASONI/WebHome.html <br> 
 </details>
