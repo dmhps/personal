@@ -38,7 +38,8 @@ CIDMA - Center for Research and Development in Mathematics and Applications - Un
 </details>
 <br/>
 <details>
-  <summary><b>Thesis</b></summary>
+  <summary><b>Thesis</b></summary> 
+  <br> 
   <b>Logical foundations and Computational tools for synthetic biology.</b> <br> PhD thesis. Universities of Minho, Aveiro and Porto joint doctoral program in Applied Mathematics, 2020. <br> 
    <br> 
 <b>Differential dynamic logic and applications.</b> <br> MSc thesis. University of Aveiro, Master in Mathematics and Applications, 2015. <br> 
@@ -46,6 +47,7 @@ CIDMA - Center for Research and Development in Mathematics and Applications - Un
  <br> 
 <details>
   <summary><b>Scientifical Projects</b></summary>
+   <br> 
   <b>2018-2022 FCT project POCI-01-0145-FEDER-032412 (FILTER)</b> Plataforma para o desenvolvimento e validação de sistemas automáticos de análise de imagem para o diagnóstico precoce e tratamento de doenças oculares relacionadas com a idade que podem levar à perda de visão. <br>
 https://www.aibili.pt/proj-public/1300/ <br> 
   <br>
