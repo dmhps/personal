@@ -14,6 +14,8 @@ CIDMA - Center for Research and Development in Mathematics and Applications - Un
 
 </div>
 
+<details>
+  <summary>**Publications**</summary>
 ## **Publications** <br>
 **An exercise in Uppaal: Modelling the circadian clock of a cyanobacteria** <br> A. Iglesias, D. Figueiredo, A. Madeira. (accepted) <br> <br>
 **The impact of a reimbursement rate reduction on the utilization of antiulcer, antidepressants and antidiabetics in Portugal: a time series analysis** <br> A. Donato, D. Figueiredo, F. Batel-Marques. International Journal of Healthcare Management,  17(2) pp. 416-426, 2024. <br> <br>
@@ -33,5 +35,5 @@ CIDMA - Center for Research and Development in Mathematics and Applications - Un
 **Applying differential dynamic logic to reconfigurable biological networks** <br> D. Figueiredo, M. A. Martins, M. Chaves. Mathematical Biosciences 291, pp 10-20, 2017. <br> <br>
 **Relating Bisimulations with Attractors in Boolean Network Models** <br> D. Figueiredo. Lecture Notes in BioInformatics 9702, pp. 17-25, 2016. <br> <br>
 **A fuzzy neural network for E. coli metabolism** <br> D. Figueiredo, C. Fuentes, M. A., Martins. AIP Conference Proceedings 1648, pp. 710004, 2015. <br> <br>
-
+<details>
 <br/>
