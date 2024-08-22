@@ -13,3 +13,5 @@ CIDMA - Center for Research and Development in Mathematics and Applications - Un
 <br/>
 
 </div>
+
+**Publications**
