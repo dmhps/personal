@@ -3,8 +3,8 @@
 # **Daniel Oliveira Figueiredo, Ph.D**
 
 ##### 'daniel' dot 'figueiredo' at 'ua' dot 'pt' <br>
-##### Scopus: scopus.com/authid/detail.uri?authorId=57200237929
-##### ORCID: orcid.org/0000-0003-1727-9098
+###### Scopus: scopus.com/authid/detail.uri?authorId=57200237929
+###### ORCID: orcid.org/0000-0003-1727-9098
 
 <br/>
 
