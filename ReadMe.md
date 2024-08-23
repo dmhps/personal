@@ -62,3 +62,35 @@ Total budget: 4.000€ <br>
 <b> 2013-2016 FCT project FCOMP-01-0124-FEDER-028923 (NASONI) </b> Heterogeneous software coordination: Foundations, methods, tools. <br> 
 https://webarchive.di.uminho.pt/wiki.di.uminho.pt/twiki/bin/view/Research/NASONI/WebHome.html <br> 
 </details>
+<br/>
+<details>
+  <summary><b>Supervision</b></summary> 
+  <br> 
+  <b>Transition Systems Everywhere: From Possibilistic to Temporal and Probabilistic Verification</b> <br> Antonio Iglesias, MsC thesis. Universities of Aveiro, 2024. <br> 
+   <br> 
+<b>Differential dynamic logic and applications.</b> <br> MSc thesis. University of Aveiro, Master in Mathematics and Applications, 2015. <br> 
+</details>
+<br/>
+<details>
+  <summary><b>Events</b></summary> 
+  <br> 
+  <b>Organizing Committee:</b>
+  <br>
+  The International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications, Aveiro, November 5, 2024. <br>
+  International Symposium in Molecular Logic and Computational Synthetic Biology, University Diego Portales & IFICC, Santiago de Chile, December 17-18, 2018. <br>
+  <br>
+  <b>Program committee:</b>
+  IEEE International Conference on E-health Networking, Application & Services 18–20 November 2024 <br>
+  The International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications, Aveiro, November 5, 2024. <br>
+  International Symposium in Molecular Logic and Computational Synthetic Biology, University Diego Portales & IFICC, Santiago de Chile, December 17-18, 2018. <br>
+ <br>
+</details>
+<details>
+  <summary><b>Awards</b></summary> 
+  <br> 
+  2024 CIDMA Young Doctorate Award (https://cidma.ua.pt/cidma_young_doctorate_awards).
+  <br>
+  2019 & 2010: Two bronze medals in *Olímpíadas Portuguesas da Matemática*.
+
+  
+</details>
