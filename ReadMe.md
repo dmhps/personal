@@ -66,7 +66,7 @@ https://webarchive.di.uminho.pt/wiki.di.uminho.pt/twiki/bin/view/Research/NASONI
 <details>
   <summary><b>Supervision</b></summary> 
   <br> 
-  <b>Transition Systems Everywhere: From Possibilistic to Temporal and Probabilistic Verification</b> <br> Antonio Iglesias, MsC thesis. Universities of Aveiro, 2024. <br> 
+  <b>Transition Systems Everywhere: From Possibilistic to Temporal and Probabilistic Verification</b> <br> Antonio Iglesias, MSc thesis. Universities of Aveiro, 2024. <br> 
 </details>
 <br/>
 <details>
