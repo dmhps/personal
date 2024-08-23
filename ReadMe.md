@@ -8,11 +8,14 @@
 AIBILI - Association for Inovation and Biomedical Research in Light and Image, Coimbra, Portugal <br>
 CIDMA - Center for Research and Development in Mathematics and Applications - University of Aveiro, Portugal
 <br/>
+
 ##### 'daniel' dot 'figueiredo' at 'ua' dot 'pt' <br>
 ###### Scopus: scopus.com/authid/detail.uri?authorId=57200237929
 ###### ORCID: orcid.org/0000-0003-1727-9098
 
 </div>
+
+<br>
 
 <details>
   <summary><b>Publications</b></summary>
