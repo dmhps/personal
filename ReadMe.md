@@ -76,15 +76,16 @@ https://webarchive.di.uminho.pt/wiki.di.uminho.pt/twiki/bin/view/Research/NASONI
   <br> 
   <b>Organizing Committee:</b>
   <br>
-  The International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications, Aveiro, November 5, 2024. <br>
-  International Symposium in Molecular Logic and Computational Synthetic Biology, University Diego Portales & IFICC, Santiago de Chile, December 17-18, 2018. <br>
+  - The International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications, Aveiro, November 5, 2024. <br>
+  - International Symposium in Molecular Logic and Computational Synthetic Biology, University Diego Portales & IFICC, Santiago de Chile, December 17-18, 2018. <br>
   <br>
-  <b>Program committee:</b>
-  IEEE International Conference on E-health Networking, Application & Services 18–20 November 2024 <br>
-  The International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications, Aveiro, November 5, 2024. <br>
-  International Symposium in Molecular Logic and Computational Synthetic Biology, University Diego Portales & IFICC, Santiago de Chile, December 17-18, 2018. <br>
+  <b>Program committee:</b> <br>
+  - IEEE International Conference on E-health Networking, Application & Services 18–20 November 2024 <br>
+  - The International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications, Aveiro, November 5, 2024. <br>
+  - International Symposium in Molecular Logic and Computational Synthetic Biology, University Diego Portales & IFICC, Santiago de Chile, December 17-18, 2018. <br>
  <br>
 </details>
+ <br>
 <details>
   <summary><b>Awards</b></summary> 
   <br> 
