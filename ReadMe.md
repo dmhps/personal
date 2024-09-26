@@ -20,9 +20,9 @@
 <details>
   <summary><b>Publications</b></summary>
 <br>
-<b>Binders for switch graphs specification</b> <br> D. Figueiredo, A. Madeira. LNCS (accepted) <br> <br>
+<b>Binders for switch graphs specification</b> <br> D. Figueiredo, A. Madeira. Lecture Notes in Computer Science (accepted) <br> <br>
 <b>Labeled Fuzzy Reactive Graphs</b> <br> S. Campos, D. Figueiredo, M. A. Martins, R. Santiago. Fuzzy Sets and Systems (accepted) <br> <br>
-<b>An exercise in Uppaal: Modelling the circadian clock of a cyanobacteria</b> <br> A. Iglesias, D. Figueiredo, A. Madeira. LNCS (accepted) <br> <br>
+<b>An exercise in Uppaal: Modelling the circadian clock of a cyanobacteria</b> <br> A. Iglesias, D. Figueiredo, A. Madeira. Lecture Notes in Computer Science (accepted) <br> <br>
 <b>The impact of a reimbursement rate reduction on the utilization of antiulcer, antidepressants and antidiabetics in Portugal: a time series analysis</b> <br> A. Donato, D. Figueiredo, F. Batel-Marques. International Journal of Healthcare Management,  17(2) pp. 416-426, 2024. <br> <br>
 <b>Impact of the COVID-19 pandemic on cancer screenings in Portugal</b> <br> D. Mendes, D. Figueiredo, C. Alves, A. Penedones, B. Costa, F. Batel-Marques. Cancer Epidemiology, 88, pp. 102496, 2024. <br> <br>
 <b>idDL2DL – Interval Syntax to dL</b> <br> J. Santos, D. Figueiredo, A. Madeira. Lecture Notes in Computer Science 13931, pp. 240-247, 2023. <br> <br>
