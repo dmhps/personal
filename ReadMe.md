@@ -1,4 +1,3 @@
-<div dir="lft">
 
 # **Daniel Oliveira Figueiredo, Ph.D**
 
@@ -13,7 +12,6 @@
 ###### Scopus: scopus.com/authid/detail.uri?authorId=57200237929
 ###### ORCID: orcid.org/0000-0003-1727-9098
 
-</div>
 
 <br>
 
