@@ -70,11 +70,16 @@ https://webarchive.di.uminho.pt/wiki.di.uminho.pt/twiki/bin/view/Research/NASONI
 <details>
   <summary><b>Events</b></summary> 
   <br> 
+  <b>Program Committee Chair:</b>
+  <br>
+  - The International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications, Malta, November 23-24, 2026. <br>
+  <br> 
   <b>Organizing Committee:</b>
   <br>
   - The International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications, Aveiro, November 5, 2024. <br>
   - International Symposium in Molecular Logic and Computational Synthetic Biology, University Diego Portales & IFICC, Santiago de Chile, December 17-18, 2018. <br>
   - Days in Logic, University of Aveiro, January 25-27, 2018.
+  - Algorithms for Computationa Biology, University of Aveiro, Aveiro, June 5-6, 2017. <br>
   <br>
   <b>Program committee:</b> <br>
   - IEEE International Conference on E-health Networking, Application & Services, Nara, Japan, November 18–20, 2024. <br>
